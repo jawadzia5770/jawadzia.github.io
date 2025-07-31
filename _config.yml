@@ -7,17 +7,15 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Jawad Zia Profile # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Jawad Zia
+headline: Electrical Power Engineer | Power Systems & Electrical Design | Hardware Designs | Project & Supply Chain Management Graduate | CNC Machine & Sheet Metal Fabrication Specialist | Passionate about Industrial Engineering & Sustainable Energy Solutions
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am an Electrical Engineer with dual Master’s degrees in Project Management and Supply Chain Management from the University of Wollongong. My professional experience spans transformer manufacturing, electrical systems design, and solar PV installations, complemented by a strong understanding of industrial project execution and end-to-end supply chain operations. I specialize in the design, testing, and commissioning of electrical equipment, with a solid foundation in power distribution, CNC-based fabrication, and quality assurance. Throughout my career in Australia and South Asia, I have managed production workflows, led cross-functional teams, and contributed to the successful delivery of infrastructure and energy projects aligned with IEC 60076, ISO 9001, and AS/NZS standards. My interdisciplinary profile enables me to bridge the gap between engineering design, operational planning, and strategic supply chain decisions. I am passionate about driving efficiency, safety, and sustainability through technically sound and well-managed engineering solutions.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
